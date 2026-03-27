@@ -1,159 +1,213 @@
-```markdown
-<!--
-  ⚡ AFZAL012 | Futuristic Dark-Violet Themed GitHub Profile README
-  Elevate your AI & Full Stack presence with elegance and power.
--->
+# 🚀 AFZAL012 - Full-Stack Developer & AI Innovator
+
+> Building cutting-edge AI-powered applications that solve real-world problems.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer specializing in AI/ML integration, creating intelligent solutions that blend modern web technologies with artificial intelligence. My projects focus on automation, data analysis, and user-centric design.
+
+### 🎯 Core Expertise
+- **AI/ML Integration** - OpenAI, Gemini, Scikit-Learn
+- **Full-Stack Development** - React, Flask, Node.js, Python
+- **Cloud & DevOps** - Docker, Vercel, Cloud Deployment
+- **Data Analysis & NLP** - Data visualization, text processing
+- **Modern UI/UX** - Tailwind CSS, Framer Motion, Dark Mode Design
+
+---
+
+## 🌟 Featured Projects
+
+### 1. **🐛 Bug_AI** - Enterprise Code Review Platform
+**AI-Powered Static Analysis & Security Scanning**
+
+> An intelligent code analysis platform combining AST parsing, security vulnerability detection, and OpenAI-powered code reviews.
+
+**Key Features:**
+- 🔍 Deep code analysis with cyclomatic complexity metrics
+- 🛡️ Security scanning for hardcoded secrets & vulnerabilities
+- 🤖 AI-powered code reviews with GPT integration
+- 📊 Interactive metrics visualization with Chart.js
+- 🎨 Glassmorphism UI with dark mode
+
+**Tech Stack:** Python, Flask, React 18, Vite, TailwindCSS, Docker
+**Repository:** [AFZAL012/Bug_AI](https://github.com/AFZAL012/Bug_AI)
+
+---
+
+### 2. **💼 Job Hunter Copilot** - AI Job Search Platform
+**Intelligent Job Matching with Resume Analysis**
+
+> Full-stack job discovery platform with AI-powered job matching, resume parsing, and interview preparation.
+
+**Key Features:**
+- 🔐 Descope authentication with OAuth integration
+- 🤖 Gemini AI-powered job ranking & matching
+- 📄 PDF resume upload with AI skill extraction
+- 📅 Google Calendar interview reminders
+- 🎬 YouTube integration for interview prep
+
+**Tech Stack:** Node.js, Express, React, MongoDB, Google Gemini API
+**Repository:** [nomanqadri34/jobhunter-copilot](https://github.com/nomanqadri34/jobhunter-copilot)
+
+---
+
+### 3. **💬 Chat Data Analyzer** - WhatsApp Analytics Platform
+**Intelligent Conversation Analytics & Visualization**
+
+> Advanced WhatsApp chat analyzer with statistical insights, word frequency analysis, and interactive visualizations.
+
+**Key Features:**
+- 📊 Message statistics & timeline analysis
+- 💭 Word cloud generation & sentiment analysis
+- 😊 Emoji frequency tracking
+- 📈 Interactive charts with Streamlit
+- 🎨 Beautiful data visualizations
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Streamlit
+**Repository:** [AFZAL012/-Chat-Data-Analyzer](https://github.com/AFZAL012/-Chat-Data-Analyzer)
+
+---
+
+### 4. **🏥 Health AI** - AI Symptom Analysis Platform
+**Smart Healthcare Diagnosis Assistant**
+
+> AI-powered symptom analysis platform providing disease predictions and health insights.
+
+**Key Features:**
+- 🤖 Machine learning-based diagnosis
+- 📊 Confidence score predictions
+- 🏥 Medical data integration
+- 💡 User-friendly health interface
+- 🔒 Secure patient data handling
+
+**Tech Stack:** Flask, React, Scikit-Learn, Python
+**Live Demo:** [health-ai-xi-neon.vercel.app](https://health-ai-xi-neon.vercel.app)
+**Repository:** [AFZAL012/-health-ai](https://github.com/AFZAL012/-health-ai)
+
+---
+
+### 5. **🎓 CampusAI** - Campus Information Assistant
+**Intelligent Campus Q&A System**
+
+> NLP-powered campus assistant providing real-time answers to campus-related queries.
+
+**Key Features:**
+- 🤖 Natural Language Processing
+- 🎓 Campus data integration
+- ⚡ Real-time query responses
+- 📚 Flask-based backend
+- 🎨 Interactive web interface
+
+**Tech Stack:** Flask, Python, NLP, HTML/CSS/JS
+**Repository:** [AFZAL012/campusAI](https://github.com/AFZAL012/campusAI)
+
+---
+
+### 6. **🏨 HostelHub** - Smart Hostel Management System
+**AI-Driven Hostel Ecosystem for Modern Campuses**
+
+> Secure, scalable hostel management platform with intelligent resource allocation.
+
+**Key Features:**
+- 🏢 Student accommodation management
+- 🤖 AI-powered room allocation
+- 📱 Mobile-friendly interface
+- 🔐 Secure authentication
+- 📊 Real-time analytics dashboard
+
+**Tech Stack:** JavaScript, Node.js, React, MongoDB
+**Status:** 🏆 Built for Smart Campus Hackathon 2026
+**Repository:** [AFZAL012/HostelHub](https://github.com/AFZAL012/HostelHub)
+
+---
+
+## 📊 Tech Stack Summary
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 Project Statistics
+
+| Project | Stars | Language | Focus |
+|---------|-------|----------|-------|
+| Bug_AI | ⭐ | Python/React | Code Analysis + AI |
+| Job Hunter Copilot | ⭐ | Node.js/React | Job Search + AI Matching |
+| Chat Data Analyzer | ⭐ | Python | Data Analysis + Visualization |
+| Health AI | ⭐ | Python/React | Healthcare + ML |
+| CampusAI | ⭐ | Python | NLP + Education |
+| HostelHub | ⭐ | JavaScript | Management + AI |
+
+---
+
+## 🎯 Key Achievements
+
+✅ **Full-Stack Development** - Built 6+ production-ready applications
+✅ **AI Integration** - Implemented OpenAI, Gemini, and ML models
+✅ **Cloud Deployment** - Deployed to Vercel, Docker, and cloud platforms
+✅ **UI/UX Design** - Created glassmorphism and modern dark-mode interfaces
+✅ **Backend Architecture** - Designed scalable APIs with Flask, Express, and Node.js
+✅ **Data Visualization** - Built interactive dashboards with Chart.js, Streamlit
+
+---
+
+## 📚 Learning & Growth
+
+I'm continuously learning and implementing:
+- 🔬 Advanced AI/ML techniques
+- 🎨 Modern UI/UX design patterns
+- 🏗️ Scalable system architecture
+- 🔒 Security best practices
+- 📊 Data engineering concepts
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects. Feel free to reach out!
+
+- **GitHub:** [@AFZAL012](https://github.com/AFZAL012)
+- **Open to:** Freelance projects, collaborations, and opportunities
+
+---
+
+## 📄 License
+
+All projects are licensed under the **MIT License** - see individual repositories for details.
+
+---
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=AC5BFB&center=true&vCenter=true&multiline=true&width=600&height=60&lines=AI+Developer;Full+Stack+Engineer;Problem+Solver" alt="Typing Animation" />
-  
-  <br>
-  
-  <h1 align="center">Hi, I'm <span style="color:#AC5BFB;">AFZAL</span></h1>
-  <h3 align="center" style="color:#9B5DE5;">Building AI that transforms possibilities into realities</h3>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f2fff&height=90&section=header&text=%20AFZAL012%20%7C%20AI%20+%20Full%20Stack&fontColor=ffffff&fontAlignY=38&descAlign=70&animation=fadeIn" alt="Wave border"/>
+
+### Made with ❤️ by AFZAL012
+
+*"Code is art. AI is the future. Let's build something amazing together."*
+
 </div>
-
----
-
-## 🧬 About Me
-
-```python
-class AFZAL012:
-    role = "AI Developer  |  Full Stack Engineer"
-    focus = "Real-world problem solving with intelligent code"
-    stack = ["Python", "TensorFlow", "React", "Flask", "MongoDB", "Streamlit"]
-    quote = "Turning complex challenges into elegant, efficient solutions 🚀"
-```
-
-Minimalist at heart, innovator in spirit. Thriving at the intersection of AI + scalable software to create real impact. Always seeking the next big challenge to tackle.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8f2fff?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-6f00ff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-4B4453?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-A259FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-4335D8?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=violet"/>
-</p>
-
----
-
-## ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🧠 NeuroDetect AI</b>
-      <p><i>Brain Tumor Detection using Deep Learning.</i><br>
-      Trained on medical images to provide swift and accurate tumor classification for clinical support.
-      </p>
-    </td>
-    <td width="50%">
-      <b>🌱 AgroLeafNet</b>
-      <p><i>AI-powered Plant Disease Prediction.</i><br>
-      Empowers farmers with intelligent crop monitoring and disease detection for sustainable yields.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🎓 GradLabs</b>
-      <p><i>Student Project Marketplace & Collaboration Hub.</i><br>
-      Streamlines student innovation from ideation to showcase, connecting talent and opportunity.
-      </p>
-    </td>
-    <td width="50%">
-      <b>💬 WhatsApp Chat Analyzer</b>
-      <p><i>NLP Insights from Your Conversations.</i><br>
-      Extracts sentiment, key insights, and trends for meaningful analysis of WhatsApp chats.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFZAL012&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=ac5bfb&icon_color=8f2fff" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=AFZAL012&theme=highcontrast&hide_border=true&background=0D1117&stroke=AC5BFB&ring=8f2fff" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFZAL012&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=ac5bfb&icon_color=8f2fff" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<ul>
-  <li><b>AI projects deployed in real-world settings</b> — solving medical, agricultural, and educational challenges</li>
-  <li><b>Hackathon ready</b> — quick prototyping, agile iterations, and innovative problem solver</li>
-  <li><b>End-to-End Product Mindset</b> — from concept to production with deep AI + Full Stack integration</li>
-  <li><b>Open source contributor</b> — always giving back to the developer ecosystem</li>
-</ul>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/AFZAL012/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8f2fff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://your-portfolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6f00ff?style=for-the-badge&logo=internet-archive&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f2fff&height=90&section=footer"/>
-
-  <br>
-  <blockquote>
-    <h3 style="color:#AC5BFB;">"The best way to predict the future is to invent it."</h3>
-    <span style="color:#888;">— Alan Kay</span>
-  </blockquote>
-</div>
-```
-
-## 📝 Quick Setup Instructions:
-
-1. **Create the README**: Go to your GitHub profile repository (`AFZAL012/AFZAL012`)
-2. **Copy** the markdown code above into your `README.md` file
-3. **Customize**:
-   - Replace `your-linkedin-username` with your actual LinkedIn profile
-   - Replace `https://your-portfolio.com/` with your portfolio website
-   - Add links to your actual project repositories if desired
-
-**Features included:**
-✅ Animated typing effect  
-✅ Dark + Violet futuristic theme  
-✅ Professional tech stack badges  
-✅ Project showcase with descriptions  
-✅ GitHub stats, streak, & languages  
-✅ Achievement highlights  
-✅ Snake contribution animation  
-✅ Social links  
-✅ Inspirational footer quote  
-✅ Minimal, clean, elegant design  
-
-Your profile is now top-tier ready! 🎉
